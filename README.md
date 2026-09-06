@@ -3,6 +3,7 @@
   <img src="gif.gif" alt="Portfolio Preview" width="100%" />
 </a>
 
+
 💻 BSIT student and Freelancer Full Stack Developer <br>
 🌐 Focused on Web Development, Web3, and AI <br>
 🚀 Building projects with MERN , Python, and Laravel <br>
@@ -10,6 +11,7 @@
 🛠️ Interested in building useful products and startup ideas <br>
 📈 Exploring crypto and blockchain technology <br>
 
+<img align="right" alt="grind" width="400" src="https://acy.com/en/market-news/education/mastering-the-three-pillars-of-profitable-trading-risk-management-trading-strategy-and-trading-psychology-r-c-114550/">
 
 # 💻 Tech Stack:
 
