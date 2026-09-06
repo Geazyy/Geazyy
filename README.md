@@ -1,5 +1,5 @@
 
-<a href="https://geaser-personal-portfolio.vercel.app/">
+<a href="https://geaser-personal-portfolio.vercel.app/" target="_blank">
   <img src="gif.gif" alt="Portfolio Preview" width="100%" />
 </a>
 
