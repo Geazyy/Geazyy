@@ -1,11 +1,11 @@
 Hi, I'm Geaser Jan 👋
 
-💻 BSIT student and Freelancer Full Stack Developer
-🌐 Focused on Web Development, Web3, and AI
-🚀 Building projects with React, Node.js, Python, and Laravel
-📚 Currently learning TypeScript, Solidity, and AI integration
-🛠️ Interested in building useful products and startup ideas
-📈 Exploring crypto and blockchain technology
+💻 BSIT student and Freelancer Full Stack Developer <br>
+🌐 Focused on Web Development, Web3, and AI <br>
+🚀 Building projects with MERN , Python, and Laravel <br>
+📚 Currently learning TypeScript, Solidity, and AI integration <br>
+🛠️ Interested in building useful products and startup ideas <br>
+📈 Exploring crypto and blockchain technology <br>
 
 
 ## 🌐 Socials:
