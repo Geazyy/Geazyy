@@ -1,4 +1,6 @@
-Hi, I'm Geaser Jan 👋
+<div align="center">
+  <img src=".gif.gif" alt="Geaser Jan Banner" width="100%">
+</div>
 
 💻 BSIT student and Freelancer Full Stack Developer <br>
 🌐 Focused on Web Development, Web3, and AI <br>
