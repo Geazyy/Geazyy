@@ -8,10 +8,6 @@ Hi, I'm Geaser Jan 👋
 📈 Exploring crypto and blockchain technology <br>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100074241699020) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geasergadz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhynzio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsirjanopgadz8@gmail.com) 
-
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
