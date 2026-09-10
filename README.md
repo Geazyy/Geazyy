@@ -11,7 +11,7 @@
 🛠️ Interested in building useful products and startup ideas <br>
 📈 Exploring crypto and blockchain technology <br>
 
-<img align="right" alt="grind" width="400" src="https://acy.com/en/market-news/education/mastering-the-three-pillars-of-profitable-trading-risk-management-trading-strategy-and-trading-psychology-r-c-114550/">
+<img align="right" alt="grind" width="400" src="">
 
 # 💻 Tech Stack:
 
