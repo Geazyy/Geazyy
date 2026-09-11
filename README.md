@@ -3,6 +3,7 @@
   <img src="gif.gif" alt="Portfolio Preview" width="100%" />
 </a>
 
+<br>
 
 💻 BSIT student and Freelancer Full Stack Developer <br>
 🌐 Focused on Web Development, Web3, and AI <br>
@@ -11,7 +12,7 @@
 🛠️ Interested in building useful products and startup ideas <br>
 📈 Exploring crypto and blockchain technology <br>
 
-<img align="right" alt="grind" width="400" src="">
+<!-- <img align="right" alt="grind" width="400" src=""> -->
 
 # 💻 Tech Stack:
 
