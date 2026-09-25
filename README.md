@@ -6,9 +6,9 @@
 <br>
 
 💻 BSIT student and Freelancer Full Stack Developer <br>
-🌐 Focused on Web Development, Web3, and AI <br>
+🌐 Focused on Software Engineering, Web3, and AI <br>
 🚀 Building projects with MERN , Python, and Laravel <br>
-📚 Currently learning TypeScript, Solidity, and AI integration <br>
+📚 Currently learning Javascript, TypeScript, , and AI integration <br>
 🛠️ Interested in building useful products and startup ideas <br>
 📈 Exploring crypto and blockchain technology <br>
 
@@ -34,6 +34,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
