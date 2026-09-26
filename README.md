@@ -5,7 +5,7 @@
 
 <br>
 
-💻 BSIT student and Freelancer Full Stack Developer <br>
+💻 BSIT student and Freelancer AI assisted Full Stack Developer <br>
 🌐 Focused on Software Engineering, Web3, and AI <br>
 🚀 Building projects with MERN , Python, and Laravel <br>
 📚 Currently learning Javascript, TypeScript, , and AI integration <br>
