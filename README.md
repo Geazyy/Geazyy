@@ -83,8 +83,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.shion.dev/api?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <table>
   <tr>
@@ -92,7 +90,7 @@
       <img src="https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false" alt="GitHub streak stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
     </td>
   </tr>
 </table>
