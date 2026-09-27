@@ -87,10 +87,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false" alt="GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com/?user=geazyy&amp;theme=dark&amp;hide_border=false" alt="GitHub streak stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="Most used languages" />
     </td>
   </tr>
 </table>
