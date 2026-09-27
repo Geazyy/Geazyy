@@ -86,6 +86,17 @@
 ![](https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false" alt="GitHub streak stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
 ---
 [![](https://komarev.com/ghpvc/?username=geazyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
