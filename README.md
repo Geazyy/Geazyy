@@ -82,7 +82,7 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.shion.dev/api?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
