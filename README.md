@@ -90,7 +90,7 @@
       <img src="https://streak-stats.demolab.com/?user=geazyy&theme=dark&hide_border=false" alt="GitHub streak stats" />
     </td>
     <td>
-      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=geazyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
     </td>
   </tr>
 </table>
