@@ -5,7 +5,7 @@
 
 <br>
 
-💻 BSIT Gradauted and AI assisted Full Stack Developer <br>
+💻 BSIT and AI assisted Full Stack Developer <br>
 🌐 Focused on Software Engineering, Web3, and AI <br>
 🚀 Building projects with PERN , Python, and Laravel <br>
 📚 Currently learning Javascript, TypeScript,Python , and AI integration <br>
