@@ -5,10 +5,10 @@
 
 <br>
 
-💻 BSIT and AI assisted Full Stack Developer <br>
-🌐 Focused on Software Engineering, Web3, and AI <br>
+💻 BSIT Graduated and AI assisted Full Stack Developer <br>
+🌐 Focused on AI, Web3 and Software Engineering <br>
 🚀 Building projects with PERN , Python, and Laravel <br>
-📚 Currently learning Javascript, TypeScript,Python , and AI integration <br>
+📚 Currently learning Javascript, TypeScript , Python , and AI integration <br>
 🛠️ Interested in building useful products and startup ideas <br>
 📈 Exploring crypto and blockchain technology <br>
 
