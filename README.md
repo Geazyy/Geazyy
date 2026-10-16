@@ -6,7 +6,7 @@
 <br>
 
 💻 BSIT Graduated and AI assisted Full Stack Developer <br>
-🌐 Focused on Artificial Intelligence, Software Engineering and  Web3 <br>
+🌐 Focused on Software Engineering, GenAI and  Web3 <br>
 🛠️ Interested in building useful products and startup ideas to solve real problems<br>
 📈 Exploring Crypto and blockchain technology <br>
 
